@@ -1,0 +1,16 @@
+*{
+  background-color:lightblue
+}
+h2{
+  text-align: center;
+  margin-top: 10px;
+}
+h1{
+  text-align: center;
+  margin-top: 20px;
+}
+p{
+  text-align: center;
+  margin-top: 30px;
+  font-size: large;
+}
